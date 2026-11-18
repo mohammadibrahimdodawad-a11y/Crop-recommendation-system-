@@ -1,0 +1,6 @@
+{
+  "name": "Global Smart Crop Recommendation System",
+  "description": "A worldwide soil, climate, and agricultural intelligence platform for farmers and agronomists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
